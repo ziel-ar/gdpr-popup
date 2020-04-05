@@ -2,7 +2,7 @@
 
 A tool to display popup in which the user can decide whether to agree to the collection of cookies by third parties.
 
-### [View the demo](https://zielar.com/popup/)
+### [View the demo](https://ziel-ar.github.io/gdpr-popup/)
 
 Features of the demo version:
 - The cookie that saves information about the user's decision (accept / reject) expires after 5 seconds. Refreshing the page after this time will display the popup again.
