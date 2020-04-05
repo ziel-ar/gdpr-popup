@@ -18,8 +18,8 @@ Features of the demo version:
 ## Installation
 Just embed files from the assets folder into your page's head or body.
 ```html
-<link rel="stylesheet" href="styles.css" class="stylesheet" />
-<script src="script.js"></script>
+<link rel="stylesheet" href="gdpr-popup.css" class="stylesheet" />
+<script src="gdpr-popup.js"></script>
 ```
 
 ## Features
