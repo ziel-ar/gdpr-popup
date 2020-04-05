@@ -1,0 +1,178 @@
+{
+    "vendors": [
+        {
+            "id": 1,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 2,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 3,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 4,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 5,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 6,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 7,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 8,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 9,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 10,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 11,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 12,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 13,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 14,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 15,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 16,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 17,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 18,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 19,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 20,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 21,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 22,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 23,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 24,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 25,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 26,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 27,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 28,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 29,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 30,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 31,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 32,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 33,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },        {
+            "id": 34,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 35,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        },
+        {
+            "id": 36,
+            "name": "Some Company",
+            "policyUrl": "https://companywebpage.com/privacy-policy/"
+        }
+    ]
+}

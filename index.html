@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>gdpr-popup demo page</title>
+    <link rel="stylesheet" href="./assets/gdpr-popup.css" class="stylesheet" />
+  </head>
+  <!-- inline style just to show that popup disables page scrolling -->
+  <body style="height: 101vh">
+    <h1>gdpr-popup demo page</h1>
+    <p>The cookie that saves information about the user's decision (accept / reject) expires after 5 seconds. Refreshing the page after this time will display the popup again.</p>
+    <p>The cookie that records information about what vendros we have accepted expires after 10 seconds. This means that within 6-10 seconds of acceptance, the popup will show saved vendors.</p>
+    <p>You can also press the button below to force generating popup and loading vendors.</p>
+    <button class="popup__button" onclick="generatePopup(); populateVendors();">SHOW POPUP!</button>    
+    <script src="./assets/gdpr-popup.js"></script>
+  </body>
+</html>
